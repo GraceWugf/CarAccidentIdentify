@@ -1,2 +1,2 @@
 # CarAccidentIdentify
-Identify car accident based on time-history signals
+Identify car accidents based on time-history signals
